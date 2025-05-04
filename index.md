@@ -18,7 +18,7 @@ Current - M.STAT. in Biostatistics
 
 # Research
 
-**Project Lead**, Salt Lake Community College
+**Project Lead**, Salt Lake Community College (work found [here](https://github.com/1anw/SLCCWhiskeyResearch)).
 
 *   Presented two projects at the 2025 American Chemical Society National Convention in San Diego.
 *   Developed new sample preparation and Gas Chromatography-Mass Spectrometry methods with headspace solid phase microextraction for conducting qualitative and quantitative analysis of volatile compounds in whiskey.
